@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // --- Preloader Functionality - KEPT as requested ---
+    // --- Preloader Functionality - 
     const preloader = document.getElementById('preloader');
     if (preloader) {
         // Use window.onload to ensure all assets (images, etc.) are loaded
@@ -59,5 +59,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- CAROUSEL FUNCTIONALITY REMOVED ---
+  
 });
